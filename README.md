@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NarendraTavva
 - 👀 I’m interested in programming and cloud computing.
 - 🌱 I’m currently learning DevOps, AWS and programming skills.
+- I am trying to get a job that matches with my skills.
 
 <!---
 NarendraTavva/NarendraTavva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
