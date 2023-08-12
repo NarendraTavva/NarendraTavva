@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NarendraTavva
-- 👀 I’m interested in programming and cloud computing.
-- 🌱 I’m currently learning DevOps, AWS and programming skills.
+- 👀 I’m interested in programming, web development and cloud computing.
 - I am trying to get a job that matches with my skills.
 
 <!---
